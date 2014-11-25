@@ -1,0 +1,75 @@
+#my_protractor
+{
+border:10px solid #000000;
+z-index: 1;
+position:absolute;
+left:5px;
+top:130px;/**/
+width:693px;
+height:318px;
+}
+#noteString{
+/*border:10px solid #000000;*/
+z-index: 3;
+position:absolute;
+left:340px;
+top:150px;/**/
+
+}
+
+/**/#my_arrow{
+
+/*.image-box img{*/
+z-index: 2;
+position:absolute;
+/*width:200px;
+height:200px;*/
+left:0px;
+top:300px;/**/
+width:693px;
+height:280px;/**/
+}
+/*
+-webkit-animation-name: spin;
+-webkit-animation-duration: 4000ms;
+-webkit-animation-iteration-count: 1;
+-webkit-animation-timing-function: linear;
+
+-moz-animation-name: spin;
+-moz-animation-duration: 4000ms;
+-moz-animation-iteration-count: 1;
+-moz-animation-timing-function: linear;
+
+-ms-animation-name: spin;
+-ms-animation-duration: 4000ms;
+-ms-animation-iteration-count: 1;
+-ms-animation-timing-function: linear;
+	
+animation-name: spin;
+animation-duration: 4000ms;
+animation-iteration-count: 1;
+animation-timing-function: linear;
+
+}
+
+@-ms-keyframes spin {
+    from { -ms-transform: rotate(0deg); }
+    to { -ms-transform: rotate(-180deg); }
+}
+@-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(-180deg); }
+}
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(-180deg); }
+}
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(-180deg);
+    }
+	
+	*/

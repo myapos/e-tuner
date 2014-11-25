@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapnotesandfrequencies>
+<notefreq>
+  <note>C0</note>
+  <freq>16.35</freq>
+</notefreq>
+<notefreq>
+  <note>C#0/Db0</note>
+  <freq>17.32</freq>
+</notefreq>
+<notefreq>
+  <note>D0</note>
+  <freq>18.35</freq>
+</notefreq>
+<notefreq>
+  <note>D#0/Eb0 </note>
+  <freq>19.45</freq>
+</notefreq>
+<notefreq>
+  <note>E0</note>
+  <freq>20.60</freq>
+</notefreq>
+<notefreq>
+  <note>F0</note>
+  <freq>21.83</freq>
+</notefreq>
+<notefreq>
+  <note>G0</note>
+  <freq>24.50</freq>
+</notefreq>
+<notefreq>
+  <note>G#0/Ab0</note>
+  <freq>25.96</freq>
+</notefreq>
+<notefreq>
+  <note>A0</note>
+  <freq>27.50</freq>
+</notefreq>
+<notefreq>
+  <note>A#0/Bb0</note>
+  <freq>29.14</freq>
+</notefreq>
+<notefreq>
+  <note>B0</note>
+  <freq>30.87</freq>
+</notefreq>
+
+<!-- telos prwtis oktabas-->
+<notefreq>
+  <note>C1</note>
+  <freq>32.70</freq>
+</notefreq>
+<notefreq>
+  <note>C#1/Db1</note>
+  <freq>34.65</freq>
+</notefreq>
+<notefreq>
+  <note>D1</note>
+  <freq>36.71</freq>
+</notefreq>
+<notefreq>
+  <note>D#1/Eb1</note>
+  <freq>38.89</freq>
+</notefreq>
+<notefreq>
+  <note>E1</note>
+  <freq>41.20</freq>
+</notefreq>
+<notefreq>
+  <note>F1</note>
+  <freq>43.65</freq>
+</notefreq>
+<notefreq>
+  <note>F#1/Gb1</note>
+  <freq>46.25</freq>
+</notefreq>
+<notefreq>
+  <note>G1</note>
+  <freq>49.00</freq>
+</notefreq>
+<notefreq>
+  <note>G#1/Ab1</note>
+  <freq>51.91</freq>
+</notefreq>
+<notefreq>
+  <note> A1</note>
+  <freq>55.00</freq>
+</notefreq>
+<notefreq>
+  <note>A#1/Bb1</note>
+  <freq>58.27</freq>
+</notefreq>
+<notefreq>
+  <note>B1</note>
+  <freq>61.74</freq>
+</notefreq>
+<!-- telos deuteris oktabas-->
+<notefreq>
+  <note>C2</note>
+  <freq>65.41</freq>
+</notefreq>
+<notefreq>
+  <note>C#2/Db2</note>
+  <freq>69.30</freq>
+</notefreq>
+<notefreq>
+  <note>D2</note>
+  <freq>73.42</freq>
+</notefreq>
+<notefreq>
+  <note>D#2/Eb2</note>
+  <freq>77.78</freq>
+</notefreq>
+<notefreq>
+  <note>E2</note>
+  <freq>82.41</freq>
+</notefreq>
+<notefreq>
+  <note>F2</note>
+  <freq>87.31</freq>
+</notefreq>
+<notefreq>
+  <note>F#2/Gb2</note>
+  <freq>92.50</freq>
+</notefreq>
+<notefreq>
+  <note>G2</note>
+  <freq>98.00</freq>
+</notefreq>
+<notefreq>
+  <note>G#2/Ab2</note>
+  <freq>103.83</freq>
+</notefreq>
+<notefreq>
+  <note>A2</note>
+  <freq>110.00</freq>
+</notefreq>
+<notefreq>
+  <note>A#2/Bb2</note>
+  <freq>116.54</freq>
+</notefreq>
+<notefreq>
+  <note>B2</note>
+  <freq>123.47</freq>
+</notefreq>
+<!-- telos tritis oktabas-->
+<notefreq>
+  <note>C3</note>
+  <freq>130.81</freq>
+</notefreq>
+<notefreq>
+  <note>C#3/Db3</note>
+  <freq>138.59</freq>
+</notefreq>
+<notefreq>
+  <note>D3</note>
+  <freq>146.83</freq>
+</notefreq>
+<notefreq>
+  <note>D#3/Eb3</note>
+  <freq>155.56</freq>
+</notefreq>
+<notefreq>
+  <note>E3</note>
+  <freq>164.81</freq>
+</notefreq>
+<notefreq>
+  <note>F3</note>
+  <freq>174.61</freq>
+</notefreq>
+<notefreq>
+  <note>F#3/Gb3</note>
+  <freq>185.00</freq>
+</notefreq>
+<notefreq>
+  <note>G3</note>
+  <freq>196.00</freq>
+</notefreq>
+<notefreq>
+  <note>G#3/Ab3</note>
+  <freq>207.65</freq>
+</notefreq>
+<notefreq>
+  <note>A3</note>
+  <freq>220.00</freq>
+</notefreq>
+<notefreq>
+  <note>A#3/Bb3</note>
+  <freq>233.08</freq>
+</notefreq>
+<notefreq>
+  <note>B3</note>
+  <freq>246.94</freq>
+</notefreq>
+<!-- telos tetartis oktabas-->
+<notefreq>
+  <note>C4</note>
+  <freq>261.63</freq>
+</notefreq>
+<notefreq>
+  <note>C#4/Db4</note>
+  <freq>277.18</freq>
+</notefreq>
+<notefreq>
+  <note>D4</note>
+  <freq>293.66</freq>
+</notefreq>
+<notefreq>
+  <note>D#4/Eb4</note>
+  <freq>311.13</freq>
+</notefreq>
+<notefreq>
+  <note>E4</note>
+  <freq>329.63</freq>
+</notefreq>
+<notefreq>
+  <note>F4</note>
+  <freq>349.23</freq>
+</notefreq>
+<notefreq>
+  <note>F#4/Gb4</note>
+  <freq>369.99</freq>
+</notefreq>
+<notefreq>
+  <note>G4</note>
+  <freq>392.00</freq>
+</notefreq>
+<notefreq>
+  <note>G#4/Ab4</note>
+  <freq>415.30</freq>
+</notefreq>
+<notefreq>
+  <note>A4</note>
+  <freq>440.00</freq>
+</notefreq>
+<notefreq>
+  <note>A#4/Bb4 </note>
+  <freq>466.16</freq>
+</notefreq>
+<notefreq>
+  <note>B4</note>
+  <freq>493.88</freq>
+</notefreq>
+<!-- telos pemptis oktabas-->
+<notefreq>
+  <note>C5</note>
+  <freq>523.25</freq>
+</notefreq>
+<notefreq>
+  <note>C#5/Db5</note>
+  <freq>554.37</freq>
+</notefreq>
+<notefreq>
+  <note>D5</note>
+  <freq>587.33</freq>
+</notefreq>
+<notefreq>
+  <note>D#5/Eb5</note>
+  <freq>622.25</freq>
+</notefreq>
+<notefreq>
+  <note>E5</note>
+  <freq>659.25</freq>
+</notefreq>
+<notefreq>
+  <note>F5</note>
+  <freq>698.46</freq>
+</notefreq>
+<notefreq>
+  <note>F#5/Gb5</note>
+  <freq>739.99</freq>
+</notefreq>
+<notefreq>
+  <note>G5</note>
+  <freq>783.99</freq>
+</notefreq>
+<notefreq>
+  <note>G#5/Ab5</note>
+  <freq>830.61</freq>
+</notefreq>
+<notefreq>
+  <note>A5</note>
+  <freq>880.00</freq>
+</notefreq>
+<notefreq>
+  <note>A#5/Bb5</note>
+  <freq>932.33</freq>
+</notefreq>
+<notefreq>
+  <note>B5</note>
+  <freq>987.77</freq>
+</notefreq>
+<!-- telos ektis oktabas-->
+<notefreq>
+  <note>C6</note>
+  <freq>1046.50</freq>
+</notefreq>
+<notefreq>
+  <note>C#6/Db6</note>
+  <freq>1108.73</freq>
+</notefreq>
+<notefreq>
+  <note>D6</note>
+  <freq>1174.66</freq>
+</notefreq>
+<notefreq>
+  <note>D#6/Eb6</note>
+  <freq>1244.51</freq>
+</notefreq>
+<notefreq>
+  <note>E6</note>
+  <freq>1318.51</freq>
+</notefreq>
+<notefreq>
+  <note>F6</note>
+  <freq>1396.91</freq>
+</notefreq>
+<notefreq>
+  <note>F#6/Gb6 </note>
+  <freq>1479.98</freq>
+</notefreq>
+<notefreq>
+  <note>G6</note>
+  <freq>1567.98</freq>
+</notefreq>
+<notefreq>
+  <note>G#6/Ab6</note>
+  <freq>1661.22</freq>
+</notefreq>
+<notefreq>
+  <note>A6</note>
+  <freq>1760.00</freq>
+</notefreq>
+<notefreq>
+  <note>A#6/Bb6 </note>
+  <freq>1864.66</freq>
+</notefreq>
+<notefreq>
+  <note>B6</note>
+  <freq>1975.53</freq>
+</notefreq>
+<!-- telos ebdomis oktabas-->
+<notefreq>
+  <note>C7</note>
+  <freq>2093.00</freq>
+</notefreq>
+<notefreq>
+  <note>C#7/Db7</note>
+  <freq>2217.46</freq>
+</notefreq>
+<notefreq>
+  <note>D7</note>
+  <freq>2349.32</freq>
+</notefreq>
+<notefreq>
+  <note>D#7/Eb7</note>
+  <freq>2489.02</freq>
+</notefreq>
+<notefreq>
+  <note>E7</note>
+  <freq>2637.02</freq>
+</notefreq>
+<notefreq>
+  <note>F7</note>
+  <freq>2793.83</freq>
+</notefreq>
+<notefreq>
+  <note>F#7/Gb7</note>
+  <freq>2959.96</freq>
+</notefreq>
+<notefreq>
+  <note>G7</note>
+  <freq>3135.96</freq>
+</notefreq>
+<notefreq>
+  <note>G#7/Ab7</note>
+  <freq>3322.44</freq>
+</notefreq>
+<notefreq>
+  <note>A7</note>
+  <freq>3520.00</freq>
+</notefreq>
+<notefreq>
+  <note>A#7/Bb7</note>
+  <freq>3729.31</freq>
+</notefreq>
+<notefreq>
+  <note>B7</note>
+  <freq>3951.07</freq>
+</notefreq>
+<!-- telos ogdoois oktabas-->
+<notefreq>
+  <note>C8</note>
+  <freq>4186.01</freq>
+</notefreq>
+<notefreq>
+  <note>C#8/Db8</note>
+  <freq>4434.92</freq>
+</notefreq>
+<notefreq>
+  <note>D8</note>
+  <freq>4698.63</freq>
+</notefreq>
+<notefreq>
+  <note>D#8/Eb8</note>
+  <freq>4978.03</freq>
+</notefreq>
+<notefreq>
+  <note>E8</note>
+  <freq>5274.04</freq>
+</notefreq>
+<notefreq>
+  <note>F8</note>
+  <freq>5587.65</freq>
+</notefreq>
+<notefreq>
+  <note>F#8/Gb8</note>
+  <freq>5919.91</freq>
+</notefreq>
+<notefreq>
+  <note>G8</note>
+  <freq>6271.93</freq>
+</notefreq>
+<notefreq>
+  <note>G#8/Ab8</note>
+  <freq>6644.88</freq>
+</notefreq>
+<notefreq>
+  <note>A8</note>
+  <freq>7040.00</freq>
+</notefreq>
+<notefreq>
+  <note>A#8/Bb8</note>
+  <freq>7458.62</freq>
+</notefreq>
+<notefreq>
+  <note>B8</note>
+  <freq>7902.13</freq>
+</notefreq>
+<!-- telos enatis oktabas-->
+</mapnotesandfrequencies>
