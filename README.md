@@ -20,4 +20,4 @@ Web technologies that are used: HTML5, CSS3, Javascript
 Frameworks: jQuery,jQueryRotate, Web Audio API
 
 
-Live url: http://myapos.oncrete.gr/site/Applications/e-tuner/index.html
+Live demo url: http://myapos.oncrete.gr/site/Applications/e-tuner/index.html
