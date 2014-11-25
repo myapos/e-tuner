@@ -11,7 +11,7 @@ Step by step instructions.
 2.User has to give access to microphone to give permission to the web application for sound process.
 
 3.Arrow will change angle according to the note is estimated. Instrument is tuned when arrow is positioned in the center 
-of the circle.
+of the circle. Also estimated note will be displayed as text.
 
 Notes: Small delay since the production of notes exist for more accurate performance.
 
