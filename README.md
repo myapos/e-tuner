@@ -8,7 +8,7 @@ Step by step instructions.
 
 1.Open index.html in your browser or upload it to your server. Best performance is achieved by Google Chrome. Mozilla Firefox will be ok too.
 
-2.User has to give access to microphone to give permission to the web application for sound process.
+2.User has to give access to microphone to give permission to the web application for sound processing.
 
 3.Arrow will change angle according to the note is estimated. Instrument is tuned when arrow is positioned in the center 
 of the circle. Also estimated note will be displayed as text.
