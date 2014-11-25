@@ -18,3 +18,6 @@ Notes: Small delay since the production of notes exist for more accurate perform
 Web technologies that are used: HTML5, CSS3, Javascript
 
 Frameworks: JQuery, Web Audio API
+
+
+Live url: http://myapos.oncrete.gr/site/Applications/e-tuner/index.html
