@@ -1,7 +1,7 @@
 e-tuner
 =======
 
-E-tuner is a software application used by musicians to detect and display the pitch of notes played on musical instruments.
+E-tuner is a web application used by musicians to detect and display the pitch of notes played on musical instruments.
 The whole process is intended to be done real time without installation. 
 
 Step by step instructions.
@@ -12,3 +12,7 @@ Step by step instructions.
 of the circle.
 
 Notes: Small delay since the production of notes exist for more accurate performance.
+
+Web technologies that are used: HTML5, CSS3, Javascript
+
+Frameworks: JQuery, Web Audio API
