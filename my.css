@@ -1,75 +1,139 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+h1{
+	text-align:center;
+	font:bold 20px tempus sans itc;
+	color:#CCCCCC;
+}
+
+h2{
+	font:bold 14px tempus sans itc;
+}
+
+header, section, footer, aside, nav, article, hgroup{
+	display:block;
+}
+
+body{
+	background-color:#CCCCCC;	
+	/*text-align:center;*/
+}
+
+#big_wrapper{
+
+	border: 5px solid #999967;
+	 -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+	box-shadow: 10px 10px 5px #888888;
+	width:1000px;		/*width of entire web page*/
+	/*height:550px;		height of entire web page*/
+	margin:20px auto;  /*centers web site*/
+	/*text-align:center;   aligns the content of big wrapper left*/
+}
+
+#top_header{
+	background: #999967;
+	padding:20px;
+}
+
+#top_menu{
+	
+	background: #999967;
+	color:#CCCCCC;
+	
+}
+
+#top_menu li{
+	display:inline-block;
+	list-style:none;	/*cancels bullets from unordered list*/
+	padding:5px;
+	font:bold 14px tempus sans itc;
+}
+
+
+#main_section{
+	
+	/*border:1px solid #999967;*/
+	width:800px;
+	margin:30px auto; /*centers  main section area in big_wrapper. 860 px, 440 px left*/
+	height:350px;
+	text-align:center;	 /*centers main_section elements (protractor and arrow image) inside main_section*/
+	/*float:left;
+	background-image: url("GitHub-Logos/Fork_Me_On_GitHub.jpg");
+	background-repeat:no-repeat;*/
+}
 #my_protractor
 {
-border:10px solid #000000;
-z-index: 1;
-position:absolute;
-left:5px;
-top:130px;/**/
-width:693px;
-height:318px;
+	border: 5px solid #999967;
+	 -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+	box-shadow: 10px 10px 5px #888888;
+	z-index: 1;
+	width:60%;
 }
+
+#my_arrow{
+	position: relative; 	/*positions arrow image relative to the center of protractor image*/
+	top: -133px;
+	left:-10px;
+	/*border: 1px solid #666600;*/
+	z-index: 2;
+	width:60%;
+}
+
 #noteString{
-/*border:10px solid #000000;*/
-z-index: 3;
-position:absolute;
-left:340px;
-top:150px;/**/
-
+	z-index: 3;
+	/*border: 1px solid #999967;*/
 }
+#the_footer{
 
-/**/#my_arrow{
-
-/*.image-box img{*/
-z-index: 2;
-position:absolute;
-/*width:200px;
-height:200px;*/
-left:0px;
-top:300px;/**/
-width:693px;
-height:280px;/**/
-}
-/*
--webkit-animation-name: spin;
--webkit-animation-duration: 4000ms;
--webkit-animation-iteration-count: 1;
--webkit-animation-timing-function: linear;
-
--moz-animation-name: spin;
--moz-animation-duration: 4000ms;
--moz-animation-iteration-count: 1;
--moz-animation-timing-function: linear;
-
--ms-animation-name: spin;
--ms-animation-duration: 4000ms;
--ms-animation-iteration-count: 1;
--ms-animation-timing-function: linear;
+	/**/
+	background: #999967;
+	clear:both;
+	text-align:center;
+	padding:5px;
+	border-top:5px solid #999967;
 	
-animation-name: spin;
-animation-duration: 4000ms;
-animation-iteration-count: 1;
-animation-timing-function: linear;
-
 }
 
-@-ms-keyframes spin {
-    from { -ms-transform: rotate(0deg); }
-    to { -ms-transform: rotate(-180deg); }
+/* unvisited link */
+a:link {
+    color: #666600;
 }
-@-moz-keyframes spin {
-    from { -moz-transform: rotate(0deg); }
-    to { -moz-transform: rotate(-180deg); }
+
+/* visited link */
+a:visited {
+    color: #555555;
 }
-@-webkit-keyframes spin {
-    from { -webkit-transform: rotate(0deg); }
-    to { -webkit-transform: rotate(-180deg); }
+
+/* mouse over link */
+a:hover {
+    color: #666666 ;
 }
-@keyframes spin {
-    from {
-        transform:rotate(0deg);
-    }
-    to {
-        transform:rotate(-180deg);
-    }
+
+/* selected link */
+a:active {
+    color: #CCCC9A;
+}
+
+
+/*CSS for links page*/
+#useful_links li{
+	list-style:none;	/*cancels bullets from unordered list*/
+	padding:5px;
+	font:bold 14px tempus sans itc;
+	color: #999967;
 	
-	*/
+}
+#useful_links{
+	font:bold 14px tempus sans itc;
+	color: #999967;
+	
+}
