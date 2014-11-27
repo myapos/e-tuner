@@ -90,12 +90,15 @@ body{
 
 #noteString{
 	z-index: 3;
+	font:bold 14px tempus sans itc;
+	color:#666600;
 	/*border: 1px solid #999967;*/
 }
 #the_footer{
 
 	/**/
 	background: #999967;
+	color:#CCCCCC;
 	clear:both;
 	text-align:center;
 	padding:5px;

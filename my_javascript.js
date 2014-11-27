@@ -27,6 +27,7 @@ var mapDif=
 var deviation = 0; //Hz
 var thetadeviation=135; //degrees
 var a=50; //a Hz symbolize maximum and minimum deviation on protractor from goal frequency -->resolution of protractor
+var thresholdcolordeviation = 0.9; //if absolute deviation is smaller than threshold then color is of notestring is changing
 
 //globals for pitch detection
 var audioContext = null;
@@ -378,7 +379,14 @@ deviation = goalfrequency-map[index1][1];
 console.log("Tone is:"+map[index1][0]+ " with deviation:"+deviation);
 indexf1=index1;
 indexf2=index2;
-
+if(Math.abs(deviation)<thresholdcolordeviation){
+$("#noteString").css({"color":"green"});
+$("#my_protractor").css({"border":"5px solid green"});
+}
+else {
+$("#noteString").css({"color":"#666600"});
+$("#my_protractor").css({"border":"5px solid #999967"});
+}
 }
 console.log("indexf1 :"+indexf1);
 }
@@ -394,6 +402,14 @@ nearestIndex = calculateNearestValue();
 $(noteString).text( map[nearestIndex][0]);
 deviation = goalfrequency-map[nearestIndex][1];
 console.log("Nearest tone is:"+map[nearestIndex][0]+ " with deviation:"+deviation);
+if(Math.abs(deviation)<thresholdcolordeviation){
+$("#noteString").css({"color":"green"});
+$("#my_protractor").css({"border":"5px solid green"});
+}
+else {
+$("#noteString").css({"color":"#666600"});
+$("#my_protractor").css({"border":"5px solid #999967"});
+}
 /**/
 }
 
