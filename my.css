@@ -140,3 +140,21 @@ a:active {
 	color: #999967;
 	
 }
+
+#terms{
+	font:bold 14px tempus sans itc;
+	color: #999967;
+	
+}
+
+#manual{
+	font:bold 14px tempus sans itc;
+	color: #999967;
+	text-align:justify;
+}
+
+#about{
+	font:bold 14px tempus sans itc;
+	color: #999967;
+	text-align:justify;
+}
