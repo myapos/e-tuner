@@ -15,8 +15,8 @@ of the circle. Also estimated note will be displayed as text.
 
 Notes
 
-    Small delay since the production of notes exist for more accurate performance.
-    In this link http://updates.html5rocks.com/2012/09/Live-Web-Audio-Input-Enabled 
+    1. Small delay since the production of notes exist for more accurate performance.
+    2. In this link http://updates.html5rocks.com/2012/09/Live-Web-Audio-Input-Enabled 
     you can find instructions on how you can enable web audio input in Google Chrome
 
 
