@@ -11,8 +11,7 @@ h1{
 
 h2{
 	font:bold 14px tempus sans itc;
-	color: #999967;
-	
+		
 }
 
 header, section, footer, aside, nav, article, hgroup{
@@ -28,9 +27,9 @@ body{
 
 	border: 5px solid #999967;
 	 -moz-border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -khtml-border-radius: 20px;
-    border-radius: 20px;
+    	-webkit-border-radius: 20px;
+    	-khtml-border-radius: 20px;
+    	border-radius: 20px;
 	box-shadow: 10px 10px 5px #888888;
 	width:1000px;		/*width of entire web page*/
 	/*height:550px;		height of entire web page*/
@@ -69,6 +68,14 @@ body{
 	background-image: url("GitHub-Logos/Fork_Me_On_GitHub.jpg");
 	background-repeat:no-repeat;*/
 }
+
+#main_section h2{
+	
+	font:bold 14px tempus sans itc;
+	color: #999967;
+
+}
+
 #my_protractor
 {
 	border: 5px solid #999967;
