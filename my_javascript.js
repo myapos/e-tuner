@@ -103,6 +103,7 @@ function gotStream(stream) {
 //alert("Got audio stream");
 
 // Create an AudioNode from the stream.
+window.source  = audioContext.createMediaStreamSource(stream);  //fixes bug of firefox
 var microphone = audioContext.createMediaStreamSource(stream);
 analyser = audioContext.createAnalyser();
 microphone.connect(analyser);
