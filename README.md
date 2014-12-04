@@ -13,14 +13,11 @@ Step by step instructions.
 3.Arrow will change angle according to the note is estimated. Instrument is tuned when arrow is positioned in the center 
 of the circle. Also estimated note will be displayed as text.
 
-Notes
-
-    1. Small delay since the production of notes exist for more accurate performance.
-    2. In this link http://updates.html5rocks.com/2012/09/Live-Web-Audio-Input-Enabled 
-    you can find instructions on how you can enable web audio input in Google Chrome
-
+Notes: Small delay since the production of notes exist for more accurate performance.
 
 Web technologies that are used: HTML5, CSS3, Javascript
+
 Frameworks: jQuery,jQueryRotate, Web Audio API
 
-Live demo url: http://myapos.oncrete.gr/site/Applications/e-tuner/index.html 
+
+Live demo url: http://myapos.oncrete.gr/site/Applications/e-tuner/index.html
